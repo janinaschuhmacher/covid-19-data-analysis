@@ -1,0 +1,40 @@
+{
+  "build": "py38h7241aed_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/anaconda/osx-64",
+  "constrains": [],
+  "depends": [
+    "blas 1.0 mkl",
+    "libgfortran >=3.0.1,<4.0.0.a0",
+    "mkl >=2019.4,<2020.0a0",
+    "mkl-service >=2,<3.0a0",
+    "mkl_fft",
+    "mkl_random",
+    "numpy-base 1.18.1.*",
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/numpy-1.18.1-py38h7241aed_0",
+  "features": "",
+  "files": [],
+  "fn": "numpy-1.18.1-py38h7241aed_0.tar.bz2",
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/numpy-1.18.1-py38h7241aed_0",
+    "type": 1
+  },
+  "md5": "53eafc7d25e3f9aa3a30e26085cf50e3",
+  "name": "numpy",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/numpy-1.18.1-py38h7241aed_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "numpy==1.18.1=py38h7241aed_0",
+  "sha256": "64a87bffa5ab07952038570e76a43cf80a658e592083796a445efb35fc4e030f",
+  "size": 4983,
+  "subdir": "osx-64",
+  "timestamp": 1579206084853,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/anaconda/osx-64/numpy-1.18.1-py38h7241aed_0.tar.bz2",
+  "version": "1.18.1"
+}
