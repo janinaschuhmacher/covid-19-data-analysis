@@ -1,13 +1,8 @@
 # Predicting outcome of COVID-19 case
 
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/janinaschuhmacher/covid-19-data-analysis/blob/master/visualization/outcomes.png" alt="outcome of COVID-19 cases">
-  </div>
-  <div class="column">
-    <img src="https://github.com/janinaschuhmacher/covid-19-data-analysis/blob/master/visualization/outcome_per_age.png" alt="outcomes of COVID-19 cases">
-  </div>
-</div>
+
+<img src="https://github.com/janinaschuhmacher/covid-19-data-analysis/blob/master/visualization/outcome_per_age.png" alt="outcomes of COVID-19 cases">
+
 
 
 The goal of this project is to train a model which predicts whether a patient will die or recover from Coronavirus. 
