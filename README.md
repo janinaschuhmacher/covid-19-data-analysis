@@ -11,7 +11,7 @@
 
 
 The goal of this project is to train a model which predicts whether a patient will die or recover from Coronavirus. 
-To train the model, a dataset of COVID-19 cases is used. As can be seen in the plots above, about eight percent of COVID-19 patients in this dataset died. However, the ratio increases significantally in older age groups. 
+To train the model, a dataset of COVID-19 cases is used. As can be seen in the plots above, about eight percent of COVID-19 patients in this dataset died. However, the ratio increases significantly in older age groups. 
 
 ## How?
 <img src="https://github.com/janinaschuhmacher/covid-19-data-analysis/blob/master/visualization/final_confustion_matrix.png" alt="confusion matrix of the final logistic regression model" >
